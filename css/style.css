@@ -276,6 +276,10 @@ section:last-child {
 		text-align: start;
 	}
 
+	.none-dot {
+		list-style-type: none;
+	}
+
 	.sectionTitle,
 	.sectionContent {
 		float: none;
